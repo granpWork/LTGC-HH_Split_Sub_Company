@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LTGC-HH_Split_sub-comp.iml" filepath="$PROJECT_DIR$/.idea/LTGC-HH_Split_sub-comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LTGC_Split_sub-comp/.idea/LTGC_Split_sub-comp.iml" filepath="$PROJECT_DIR$/../LTGC_Split_sub-comp/.idea/LTGC_Split_sub-comp.iml" />
+    </modules>
+  </component>
+</project>
